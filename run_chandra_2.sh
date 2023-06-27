@@ -1,0 +1,1 @@
+python -u node_class.py --data wisconsin --layer 3 --w_att 0.0001 --w_alpha 0.01 --w_fc0 0.001 --w_fc1 0.0001 --w_fc2 0.0001 --hidden 64 --dropout 0.6 --lr_fc0 0.01 --lr_fc1 0.01 --lr_fc2 0.01 --lr_att 0.01 --lr_alpha 0.01 --epochs 1500 --layer_norm 1 --dev 0
